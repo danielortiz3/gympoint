@@ -9,10 +9,10 @@
 
 ## Instalação
 
-Use o git clone [git](https://github.com/DanPHP7/gympoint/) para clonar a Gympoint.
+Use o git clone [git](https://github.com/danielortiz3/gympoint/) para clonar a Gympoint.
 
 ```bash
-git clone https://github.com/DanPHP7/gympoint.git
+git clone https://github.com/danielortiz3/gympoint.git
 ```
 ## Databases
 <a href="https://drive.google.com/drive/folders/1cuvdmXg6aq6CK5AdVEsnVhFhT5pfd5h6?usp=sharing" rel="nofollow">Databases</a>
